@@ -2,7 +2,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/d6/34/b7/d634b74068bca1b5a2155a0d26dd8f25.gif" width="420px" height="250" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/d6/34/b7/d634b74068bca1b5a2155a0d26dd8f25.gif" width="375px" height="230" />
   
   * 📘 Atualmente estou estudando Desenvolvimento de Software na <a href="https://github.com/betrybe">@Trybe<a/>. 
   * 🪂 Cai de paraquedas no mundo da programação e me encontrei.
@@ -10,7 +10,6 @@
   * 👩🏻 Sou uma pessoa que está sempre em constante evolução, tanto pessoal quanto profissional;
   * 🌱 Gosto muito de aprender, conhecer pessoas e passar por diversos tipos de desafios. Isto me estimula a evoluir minhas softSkills e a sair da zona de conforto; 
   * 💼 Estudando muito para evoluir na minha carreira de desenvolvedora;
- 
 <br>
 <hr>
 <div>
