@@ -10,7 +10,6 @@
   * 👩🏻 Sou uma pessoa que está sempre em constante evolução, tanto pessoal quanto profissional;
   * 🌱 Gosto muito de aprender, conhecer pessoas e passar por diversos tipos de desafios. Isto me estimula a evoluir minhas softSkills e a sair da zona de conforto; 
   * 💼 Estudando muito para evoluir na minha carreira de desenvolvedora;
-<br>
 <hr>
 <div>
   <div align="center">
