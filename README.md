@@ -1,14 +1,22 @@
-## Olá! Sou a Ana Luisa ✨
-#### - Barbeira passando por um processo de transição de carreira com estudos em Desenvolvimento Web Full Stack na Trybe. ✨
+  <div>
+    <p>
+      Olá, me chamo Ana Luisa, sou de Estiva, Minas Gerais, Brasil. Atualmente estou estudando Desenvolvimento de Software na <a href="https://github.com/betrybe">Trybe<a/>. 
+  Cai de paraquedas no mundo da programação e me encontrei. Estou me capacitando cada dia mais afim de me transformar em Desenvolvedora Full Stack.
+    </p>
+    <ul>
+      <li> 👩🏻 Sou uma pessoa que está sempre em constante evolução, tanto pessoal quanto profissional;</li>
+      <li>  🌱 Gosto muito de aprender, conhecer pessoas e passar por diversos tipos de desafios. Isto me estimula a evoluir minhas softSkills e a sair da zona de conforto; </li>
+      <li> 💼 Estudando muito para evoluir na minha carreira de desenvolvedora;</li>
+    </ul>
+  </div>
 
-<div align="center">
   <div align="center">
     <a href="https://github.com/analuisams99">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=analuisams99&hide_border=true&show_icons=true&icon_color=ffc222&bg_color=120,000000,cc0000&title_color=ffc222&text_color=fff&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuisams99&&hide_border=true&show_icons=true&bg_color=120,000000,cc0000&title_color=ffc222&text_color=fff&layout=compact&langs_count=7"/>
   </div>
     
-  <div style="display: flex"><br>
+  <div align="center"><br>
     <img align="center" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -23,7 +31,6 @@
     <img align="center" alt="Sequelize" height="30" width="40" src="https://camo.githubusercontent.com/a2ef2bb116ae565bb254cbb11194dae357eb7582a8babeab337bd3932687d63d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f73657175656c697a652f73657175656c697a652d6f726967696e616c2e737667">
     <img align="center" alt="Mocha" height="30" width="40" src="https://camo.githubusercontent.com/b038408a220da15a2710d79f3bc3834c9fa8c32c7ceb22f8554c5799ceea768e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6368612f6d6f6368612d706c61696e2e737667">
   </div>
- </div>
  
   ##
   
