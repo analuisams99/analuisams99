@@ -6,13 +6,19 @@
     </p>
   </div>
   <div>
-    <img align="right" alt="GIF" src="https://i.pinimg.com/originals/d6/34/b7/d634b74068bca1b5a2155a0d26dd8f25.gif" width="300px" />
+    <img align="right" alt="GIF" src="https://i.pinimg.com/originals/d6/34/b7/d634b74068bca1b5a2155a0d26dd8f25.gif" width="250px" />
     <ul>
       <li> 👩🏻 Sou uma pessoa que está sempre em constante evolução, tanto pessoal quanto profissional;</li>
       <li>  🌱 Gosto muito de aprender, conhecer pessoas e passar por diversos tipos de desafios. Isto me estimula a evoluir minhas softSkills e a sair da zona de conforto; </li>
       <li> 💼 Estudando muito para evoluir na minha carreira de desenvolvedora;</li>
     </ul>
   </div>
+<br>
+<br>
+
+<br>
+
+<br>
 
 <div>
   <div align="center">
@@ -20,10 +26,8 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=analuisams99&hide_border=true&show_icons=true&icon_color=ffc222&bg_color=120,000000,cc0000&title_color=ffc222&text_color=fff&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuisams99&&hide_border=true&show_icons=true&bg_color=120,000000,cc0000&title_color=ffc222&text_color=fff&layout=compact&langs_count=7"/>
   </div>
-    </div>
+</div>
   
-  <br>
-    
   <div align="center"><br>
     <img align="center" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
