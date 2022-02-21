@@ -1,5 +1,5 @@
-# Olá! Sou a Ana Luisa ✨
-### - Barbeira passando por um processo de transição de carreira com estudos em Desenvolvimento Web Full Stack na Trybe. ✨
+## Olá! Sou a Ana Luisa ✨
+#### - Barbeira passando por um processo de transição de carreira com estudos em Desenvolvimento Web Full Stack na Trybe. ✨
 
 <div align="center">
   <div align="center">
