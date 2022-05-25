@@ -1,14 +1,18 @@
 <div>
   <div> 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.gifer.com/origin/d1/d17fc7f864fdb8deae36bc3bf8cf6d05_w200.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://i.gifer.com/origin/d1/d17fc7f864fdb8deae36bc3bf8cf6d05_w200.gif">
-    <img align="right" alt="GIF" src="https://i.gifer.com/origin/d1/d17fc7f864fdb8deae36bc3bf8cf6d05_w200.gif"  width="80"/>
-  </picture>  
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://i.gifer.com/origin/d1/d17fc7f864fdb8deae36bc3bf8cf6d05_w200.gif">
+      <source media="(prefers-color-scheme: light)" srcset="https://i.gifer.com/origin/d1/d17fc7f864fdb8deae36bc3bf8cf6d05_w200.gif">
+      <img align="right" alt="GIF" src="https://i.gifer.com/origin/d1/d17fc7f864fdb8deae36bc3bf8cf6d05_w200.gif"  width="80"/>
+    </picture>  
+  </div>
   <div>
     <h1> Olá, me chamo Ana Luisa, desenvolvedora Full Stack ✨</h1>
   </div>
 </div>
+
+<br>
+
 <div> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/d6/34/b7/d634b74068bca1b5a2155a0d26dd8f25.gif">
