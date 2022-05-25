@@ -2,6 +2,8 @@
 
 <div> 
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/d6/34/b7/d634b74068bca1b5a2155a0d26dd8f25.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/originals/d6/34/b7/d634b74068bca1b5a2155a0d26dd8f25.gif">
     <img align="right" alt="GIF" src="https://i.pinimg.com/originals/d6/34/b7/d634b74068bca1b5a2155a0d26dd8f25.gif"  width="375px" height="230"/>
   </picture>  
   <div>
