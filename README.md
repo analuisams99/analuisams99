@@ -1,5 +1,14 @@
-## Olá, me chamo Ana Luisa, desenvolvedora Full Stack ✨
-
+<div>
+  <div> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.gifer.com/origin/d1/d17fc7f864fdb8deae36bc3bf8cf6d05_w200.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.gifer.com/origin/d1/d17fc7f864fdb8deae36bc3bf8cf6d05_w200.gif">
+    <img align="right" alt="GIF" src="https://i.gifer.com/origin/d1/d17fc7f864fdb8deae36bc3bf8cf6d05_w200.gif"  width="80"/>
+  </picture>  
+  <div>
+    <h1> Olá, me chamo Ana Luisa, desenvolvedora Full Stack ✨</h1>
+  </div>
+</div>
 <div> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/d6/34/b7/d634b74068bca1b5a2155a0d26dd8f25.gif">
@@ -52,3 +61,5 @@
 <div align="center"> 
   <a href="https://www.linkedin.com/in/analuisams99/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+    
+<img align="right" target=blank width=100px alt="GIF" src="https://static.wixstatic.com/media/c77083_98222c37c3dc41f2b4b0cca444259ba3~mv2.gif"/>
