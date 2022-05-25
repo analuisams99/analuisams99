@@ -1,11 +1,9 @@
 ## Olá, me chamo Ana Luisa, desenvolvedora Full Stack ✨
 
 <div width="100%"> 
-  <div>
-    <picture>
-      <img align="right" alt="GIF" src="https://i.pinimg.com/originals/d6/34/b7/d634b74068bca1b5a2155a0d26dd8f25.gif"  width="375px" height="230"/>
-    </picture>  
-  </div> 
+  <picture>
+    <img align="right" alt="GIF" src="https://i.pinimg.com/originals/d6/34/b7/d634b74068bca1b5a2155a0d26dd8f25.gif"  width="375px" height="230"/>
+  </picture>  
   <div align="left">
     <p>📘 Atualmente estou estudando Desenvolvimento de Software na <a href="https://github.com/betrybe">@Trybe<a/>;</p>
     <p>🪂 Cai de paraquedas no mundo da programação e me encontrei;</p>
