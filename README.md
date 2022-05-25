@@ -1,15 +1,20 @@
 ## Olá, me chamo Ana Luisa, desenvolvedora Full Stack ✨
 
-
-
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/d6/34/b7/d634b74068bca1b5a2155a0d26dd8f25.gif" width="375px" height="230" />
-  
-  * 📘 Atualmente estou estudando Desenvolvimento de Software na <a href="https://github.com/betrybe">@Trybe<a/>. 
-  * 🪂 Cai de paraquedas no mundo da programação e me encontrei.
-  * 🇧🇷 Sou de Estiva, Minas Gerais, Brasil;
-  * 👩🏻 Sou uma pessoa que está sempre em constante evolução, tanto pessoal quanto profissional;
-  * 🌱 Gosto muito de aprender, conhecer pessoas e passar por diversos tipos de desafios. Isto me estimula a evoluir minhas softSkills e a sair da zona de conforto; 
-  * 💼 Estudando muito para evoluir na minha carreira de desenvolvedora;
+<div width="100%"> 
+  <div>
+    <picture>
+      <img align="right" alt="GIF" src="https://i.pinimg.com/originals/d6/34/b7/d634b74068bca1b5a2155a0d26dd8f25.gif"  width="375px" height="230"/>
+    </picture>  
+  </div> 
+  <div align="left">
+    <p>📘 Atualmente estou estudando Desenvolvimento de Software na <a href="https://github.com/betrybe">@Trybe<a/>;</p>
+    <p>🪂 Cai de paraquedas no mundo da programação e me encontrei;</p>
+    <p>🇧🇷 Sou de Estiva, Minas Gerais, Brasil;</p>
+    <p>👩🏻 Sou uma pessoa que está sempre em constante evolução, tanto pessoal quanto profissional;</p>
+    <p>🌱 Gosto muito de aprender, conhecer pessoas e passar por diversos tipos de desafios. Isto me estimula a evoluir minhas softSkills e a sair da zona de conforto;</p>
+    <p>💼 Estudando muito para evoluir na minha carreira de desenvolvedora;</p>
+  </div>
+</div>
 <hr>
 <div>
   <div align="center">
