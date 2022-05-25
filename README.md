@@ -7,12 +7,14 @@
     <img align="right" alt="GIF" src="https://i.pinimg.com/originals/d6/34/b7/d634b74068bca1b5a2155a0d26dd8f25.gif"  width="375px" height="230"/>
   </picture>  
   <div>
-    <p>📘 Atualmente estou estudando Desenvolvimento de Software na <a href="https://github.com/betrybe">@Trybe<a/>;</p>
-    <p>🪂 Cai de paraquedas no mundo da programação e me encontrei;</p>
-    <p>🇧🇷 Sou de Estiva, Minas Gerais, Brasil;</p>
-    <p>👩🏻 Sou uma pessoa que está sempre em constante evolução, tanto pessoal quanto profissional;</p>
-    <p>🌱 Gosto muito de aprender, conhecer pessoas e passar por diversos tipos de desafios. Isto me estimula a evoluir minhas softSkills e a sair da zona de conforto;</p>
-    <p>💼 Estudando muito para evoluir na minha carreira de desenvolvedora;</p>
+    <ul>
+      <li>📘 Atualmente estou estudando Desenvolvimento de Software na <a href="https://github.com/betrybe">@Trybe<a/>;</li>
+      <li>🪂 Cai de paraquedas no mundo da programação e me encontrei;</li>
+      <li>🇧🇷 Sou de Estiva, Minas Gerais, Brasil;</li>
+      <li>👩🏻 Sou uma pessoa que está sempre em constante evolução, tanto pessoal quanto profissional;</li>
+      <li>🌱 Gosto muito de aprender, conhecer pessoas e passar por diversos tipos de desafios. Isto me estimula a evoluir minhas softSkills e a sair da zona de conforto;</li>
+      <li>💼 Estudando muito para evoluir na minha carreira de desenvolvedora;</li>
+    <ul>
   </div>
 </div>
 <hr>
