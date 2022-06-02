@@ -7,7 +7,8 @@
     </picture>  
   </div>
   <div>
-    <h1> Olá, me chamo Ana Luisa, desenvolvedora Full Stack ✨</h1>
+    <h1> < Hello World! /> </h1>
+    <h3>Me chamo Ana Luisa, desenvolvedora Full Stack ✨</h3>
   </div>
 </div>
 
