@@ -7,7 +7,7 @@
     </picture>  
   </div>
   <div>
-    <h1> < Hello World! /> </h1>
+    <h1> < Hello, World! /> </h1>
     <h3>Me chamo Ana Luisa, desenvolvedora Full Stack ✨</h3>
   </div>
 </div>
@@ -56,7 +56,7 @@
 <br>
 <hr>
 <div align="center">
-  <h4> Contact </h4>
+  <h3> ⇩ Contact me ⇩ </h3>
   <a href="https://www.linkedin.com/in/analuisams99/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
     
