@@ -56,7 +56,8 @@
 <br>
 <hr>
 <div align="center">
-  <h3> ⇩ Contact me ⇩ </h3><a href="https://www.linkedin.com/in/analuisams99/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <h3> ⇩ Contact me ⇩ </h3><a href="https://www.linkedin.com/in/analuisams99/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:analuisams99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <img align="right" target=blank width=100px alt="GIF" src="https://static.wixstatic.com/media/c77083_98222c37c3dc41f2b4b0cca444259ba3~mv2.gif"/>
   <img align="left" target=blank width=100px alt="GIF" src="https://monophy.com/media/quEEziksvnJubvbe2K/monophy.gif"/>
 </div>
