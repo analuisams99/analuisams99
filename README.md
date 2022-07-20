@@ -22,12 +22,12 @@
   </picture>  
   <div>
     <ul>
-      <li>📘 Atualmente estou estudando Desenvolvimento de Software na <a href="https://github.com/betrybe">@Trybe<a/>;</li>
+      <li>📘 Estudo Desenvolvimento de Software na Trybe, onde atualmente estou iniciando o último módulo do curso - Ciência da Computação - e aprendendo Python.
       <li>🪂 Cai de paraquedas no mundo da programação e me encontrei;</li>
       <li>🇧🇷 Sou de Estiva, Minas Gerais, Brasil;</li>
       <li>👩🏻 Sou uma pessoa que está sempre em constante evolução, tanto pessoal quanto profissional;</li>
-      <li>🌱 Gosto muito de aprender, conhecer pessoas e passar por diversos tipos de desafios. Isto me estimula a evoluir minhas softSkills e a sair da zona de conforto;</li>
-      <li>💼 Estudando muito para evoluir na minha carreira de desenvolvedora;</li>
+      <li>🌱 Gosto muito de aprender, conhecer pessoas e passar por diversos tipos de desafios. Isto me estimula a sair da zona de conforto;</li>
+      <li>💼 Estudando muito para criar carreira em desenvolvimento FullStack;</li>
     <ul>
   </div>
 </div>
