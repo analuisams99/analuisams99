@@ -16,9 +16,9 @@
 
 <div> 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/d6/34/b7/d634b74068bca1b5a2155a0d26dd8f25.gif">
+    <source media="(prefers-color-scheme: dark)" srcset="https://media4.giphy.com/media/l2QEdoFAgf1zmhEK4/giphy.gif?cid=790b7611ce58ba008e06848884fe6d730a51d75379bdea2f&rid=giphy.gif&ct=g">
     <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/originals/d6/34/b7/d634b74068bca1b5a2155a0d26dd8f25.gif">
-    <img align="right" alt="GIF" src="https://i.pinimg.com/originals/d6/34/b7/d634b74068bca1b5a2155a0d26dd8f25.gif"  width="375px" height="230"/>
+    <img align="right" alt="GIF" src="https://i.chzbgr.com/full/8270686464/h7779056E/coding-is-an-art"  width="375px" height="230"/>
   </picture>  
   <div>
     <ul>
