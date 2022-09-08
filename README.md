@@ -3,7 +3,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://i.gifer.com/origin/d1/d17fc7f864fdb8deae36bc3bf8cf6d05_w200.gif">
       <source media="(prefers-color-scheme: light)" srcset="https://i.gifer.com/origin/d1/d17fc7f864fdb8deae36bc3bf8cf6d05_w200.gif">
-      <img align="right" alt="GIF" src="https://i.gifer.com/origin/d1/d17fc7f864fdb8deae36bc3bf8cf6d05_w200.gif"  width="80"/>
+      <img align="right" alt="GIF" src=""  width="80"/>
     </picture>  
   </div>
   <div>
@@ -17,8 +17,8 @@
 <div> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://media4.giphy.com/media/l2QEdoFAgf1zmhEK4/giphy.gif?cid=790b7611ce58ba008e06848884fe6d730a51d75379bdea2f&rid=giphy.gif&ct=g">
-    <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/originals/d6/34/b7/d634b74068bca1b5a2155a0d26dd8f25.gif">
-    <img align="right" alt="GIF" src="https://i.chzbgr.com/full/8270686464/h7779056E/coding-is-an-art"  width="375px" height="230"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://media4.giphy.com/media/l2QEdoFAgf1zmhEK4/giphy.gif?cid=790b7611ce58ba008e06848884fe6d730a51d75379bdea2f&rid=giphy.gif&ct=g">
+    <img align="right" alt="GIF" src=""  width="375px" height="230"/>
   </picture>  
   <div>
     <ul>
@@ -47,8 +47,16 @@
 <div>
   <div align="center">
     <a href="https://github.com/analuisams99">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=analuisams99&hide_border=true&show_icons=true&icon_color=ffc222&bg_color=95,000000,cc0000&title_color=ffc222&text_color=fff&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuisams99&&hide_border=true&show_icons=true&bg_color=95,000000,cc0000&title_color=ffc222&text_color=fff&layout=compact&langs_count=7"/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=analuisams99&hide_border=true&show_icons=true&icon_color=ffc222&bg_color=95,000000,cc0000&title_color=ffc222&text_color=fff&include_all_commits=true&count_private=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=analuisams99&hide_border=true&show_icons=true&icon_color=ffc222&bg_color=95,000000,cc0000&title_color=ffc222&text_color=fff&include_all_commits=true&count_private=true">
+        <img alt="GIF" src="" height="160em"/>
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=analuisams99&&hide_border=true&show_icons=true&bg_color=95,000000,cc0000&title_color=ffc222&text_color=fff&layout=compact&langs_count=7">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=analuisams99&&hide_border=true&show_icons=true&bg_color=95,000000,cc0000&title_color=ffc222&text_color=fff&layout=compact&langs_count=7">
+        <img height="160em" alt="GIF" src=""/>
+      </picture>
     </a>
   </div>
 </div>
