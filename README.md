@@ -47,16 +47,8 @@
 <div>
   <div align="center">
     <a href="https://github.com/analuisams99">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=analuisams99&hide_border=true&show_icons=true&icon_color=ffc222&theme=maroongold&title_color=ffc222&text_color=fff&include_all_commits=true&count_private=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=analuisams99&bg_color=ffc222&hide_border=true&show_icons=true&icon_color=ffc222&title_color=ffc222&text_color=fff&include_all_commits=true&count_private=true">
-        <img alt="GIF" src="" height="160em"/>
-      </picture>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=analuisams99&theme=maroongold&hide_border=true&show_icons=true&title_color=ffc222&text_color=fff&layout=compact&langs_count=7">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=analuisams99&hide_border=true&show_icons=true&bg_color=95,000000,cc0000&title_color=ffc222&text_color=fff&layout=compact&langs_count=7">
-        <img height="160em" alt="GIF" src=""/>
-      </picture>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=analuisams99&hide_border=true&show_icons=true&icon_color=ffc222&bg_color=45,101993,fd1d1d,ff8d00&title_color=ffc222&text_color=fff&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuisams99&&hide_border=true&show_icons=true&bg_color=45,ff8d00,fd1d1d,101993&title_color=ffc222&text_color=fff&layout=compact&langs_count=7"/>
     </a>
   </div>
 </div>
