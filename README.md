@@ -47,8 +47,8 @@
 <div>
   <div align="center">
     <a href="https://github.com/analuisams99">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=analuisams99&hide_border=true&show_icons=true&icon_color=ffc222&bg_color=45,101993,fd1d1d,ff8d00&title_color=ffc222&text_color=fff&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuisams99&&hide_border=true&show_icons=true&bg_color=45,ff8d00,fd1d1d,101993&title_color=ffc222&text_color=fff&layout=compact&langs_count=7"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=analuisams99&hide_border=true&show_icons=true&icon_color=ffc222&bg_color=50,000000,cc0000&title_color=ffc222&text_color=fff&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuisams99&&hide_border=true&show_icons=true&bg_color=50,cc0000,000000&title_color=ffc222&text_color=fff&layout=compact&langs_count=7"/>
     </a>
   </div>
 </div>
