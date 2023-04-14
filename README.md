@@ -22,14 +22,19 @@
     <img align="right" alt="GIF" src=""  width="375px" height="230"/>
   </picture>  
   <div>
-    <ul>
-      <li>📘 Formada em Desenvolvimento de Software Web FullStack na Trybe!.
-      <li>🪂 Cai de paraquedas no mundo da programação e me encontrei;</li>
-      <li>🇧🇷 Sou de Estiva, Minas Gerais, Brasil;</li>
-      <li>👩🏻 Sou uma pessoa que está sempre em constante evolução, tanto pessoal quanto profissional;</li>
-      <li>🌱 Gosto muito de aprender, conhecer pessoas e passar por diversos tipos de desafios. Isto me estimula a sair da zona de conforto;</li>
-      <li>💼 Estudando muito para criar carreira em desenvolvimento FullStack;</li>
-    <ul>
+ 
+ 🧀 Mineira de Estiva (MG-SP);
+    
+ 📘 Formada em Desenvolvimento de Software Web FullStack na Trybe!
+    
+ 🪂 Cai de paraquedas no mundo da programação e me encontrei;
+    
+ 💪🏻 Sou uma pessoa <b>colaborativa e comprometida</b> em prestar um bom serviço.
+     
+ ✨ Gosto de <b>trabalhar em equipe</b> e ajudar no que for necessário.
+      
+ 💜 <b>Curiosidade:</b> Trabalhava como barbeira antes de me tornar desenvolvedora.
+
   </div>
 </div>
 
