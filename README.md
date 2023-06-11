@@ -27,11 +27,11 @@
     
  📘 Formada em Desenvolvimento de Software Web FullStack na Trybe!
     
- 🪂 Cai de paraquedas no mundo da programação e me encontrei;
+ 🪂 Cai de paraquedas no mundo da tecnologia e me encontrei;
     
- 💪🏻 Sou uma pessoa <b>colaborativa e comprometida</b> em prestar um bom serviço.
+ 💪🏻 Sou uma pessoa <b>colaborativa e comprometida</b>.
      
- ✨ Gosto de <b>trabalhar em equipe</b> e ajudar no que for necessário.
+ ✨ Gosto de <b>trabalhar em equipe</b>.
       
  💜 <b>Curiosidade:</b> Trabalhava como barbeira antes de me tornar desenvolvedora.
 
