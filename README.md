@@ -101,8 +101,8 @@
 
 <div>
   <div align="center">
-    <img height="160em" src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=analuisams99&hide=contribs,issues&rank_icon=github&hide_border=true&show_icons=true&icon_color=ffc222&bg_color=72090A&title_color=ffc222&text_color=fff&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=analuisams99&hide=jinja,css,html&hide_border=true&show_icons=true&bg_color=72090A&title_color=ffc222&text_color=fff&layout=compact&langs_count=7"/>
+    <img height="150em" src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=analuisams99&hide=contribs,issues&rank_icon=github&hide_border=true&show_icons=true&icon_color=ffc222&bg_color=72090A&title_color=ffc222&text_color=fff&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=analuisams99&hide=jinja,css,html&hide_border=true&show_icons=true&bg_color=72090A&title_color=ffc222&text_color=fff&layout=compact&langs_count=7"/>
   </div>
 </div>
     
