@@ -9,7 +9,7 @@
   <div>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=425&height=35&lines=%3C+Hello%2C+World!+%2F%3E" alt="Typing SVG" /></a>
     <hr>
-    <h3>Me chamo Ana Luisa, desenvolvedora Web Full Stack ✨</h3>
+    <h3>Desenvolvedora Web Full Stack ✨</h3>
   </div>
 </div>
 
@@ -24,11 +24,11 @@
   
   <div>
  
- 🧀 Mineira de Estiva (MG-SP);
+ 🧀 Mineira;
     
  📘 Formada em Desenvolvimento de Software Web FullStack na Trybe!
     
- 🪂 Cai de paraquedas no mundo da tecnologia e me encontrei;
+ 🪂 Cai de paraquedas no mundo da tecnologia;
     
  💪🏻 Sou uma pessoa <b>colaborativa e comprometida</b>.
      
